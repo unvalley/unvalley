@@ -2,4 +2,4 @@ A Software Engineer who likes Rust 🦀 and TypeScript, currently based in Tokyo
 
 - X:        https://x.com/unvalley_
 - Blog:     https://unvalley.me
-- LinkedIn: https://linkedin.com/unvalley
+- LinkedIn: https://www.linkedin.com/in/unvalley/
